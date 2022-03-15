@@ -1,0 +1,9 @@
+.Box {
+    width: 440px;
+    height: 440px;
+    background-color: #ffebcd;
+    display: grid;
+    margin:60px auto;
+    grid-template-rows: repeat(20, 22px);
+    grid-template-columns: repeat(20, 22px);
+}
